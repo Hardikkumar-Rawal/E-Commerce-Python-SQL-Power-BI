@@ -55,8 +55,7 @@ Interactive Dashboard and Visualization
 * Create necessary DAX measures.
 * Build KPI cards, charts and slicers.
 * Design an interactive Dashboard for business stakeholders.
-v
-
+<img width="1031" height="585" alt="Screenshot 2026-10-16 105810" src="https://github.com/user-attachments/assets/269474a8-3a95-4411-bc1d-eee918c98482" />
 
 ## 5\. Skills Demonstrated
 
